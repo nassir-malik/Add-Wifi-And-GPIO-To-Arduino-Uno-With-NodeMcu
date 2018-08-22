@@ -18,8 +18,8 @@ void kitchenLightsOff();
 
 // Change this before you flash
 //#######################################
-const char* ssid     = "suddenlink.net-AD42"; //enter your ssid/ wi-fi(case sensitive) router name - 2.4 Ghz only
-const char* password = "G7MBSY89C601814";     // enter ssid password (case sensitive)
+const char* ssid     = "enter your ssid"; //enter your ssid/ wi-fi(case sensitive) router name - 2.4 Ghz only
+const char* password = "enter ssid password";     // enter ssid password (case sensitive)
 // change gpio pins as you need it.
 //I am using ESP8266 EPS-12E GPIO16 and GPIO14
 const int relayPin1 = 16;
